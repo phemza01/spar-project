@@ -1,0 +1,609 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+
+  .hero{
+    background-color: rgb(17, 13, 13);
+    width: 100%;
+    
+  }
+  
+  #navbar {
+    overflow: hidden;
+    padding: 2%;
+    border-bottom: 1px solid white;
+  }
+  
+  #nav-links li{
+    list-style-type: none;
+    float: left;
+    margin-left: 50px;
+   
+  }
+  
+  #nav-links a {
+    text-decoration: none;
+    color: white;
+  } 
+  
+  #logo {
+    width: 20%;
+    float: left;
+    color: white;
+    
+  }
+
+  .nav-icons{
+    color: white;
+    float: right;
+    margin-right: 100px;
+  }
+
+  .nav-icons i{
+    margin-left: 20px;
+  }
+
+  .content{
+    width: 100%;
+    padding: 2%;
+    float: left;
+    margin-top: 50px;
+    
+  }
+
+  .text{
+    float: left;
+    width: 50%;
+  
+  }
+
+  .text h3{
+   font-size: 15px;
+   color: rgb(185, 185, 45);
+  }
+
+  .text h1{
+    font-weight: 700;
+    font-size: 60px;
+    color: #FFFFFF;
+  }
+
+.text p{
+  font-size: 28px;
+  color: #FFFFFF;
+}
+
+.btn i{
+ margin-left: 100px;
+}
+
+.btn a{
+    background-color: rgb(185, 185, 45);
+    color: white;
+    border: 2px solid transparent;
+    font-weight: 500;
+    padding: 14px 32px;
+    border-radius: 32px;
+    text-decoration: none;
+}
+
+.btn i{
+  color: white;
+}
+
+.btn span{
+  color: white;
+  margin-left: 10px;
+}
+
+  .img{
+    float: right;
+    width: 50%;
+  }
+
+  .img img{
+    width: 100%;
+  }
+
+  .hero-1{
+    clear: both;
+    padding: 2%;
+  }
+
+  .hero-1 h3{
+  color: rgb(185, 185, 45);
+ }
+
+ .hero-1 h1{
+  font-size: 50px;
+ }
+
+
+  .float1{
+    width: 25%;
+    float: left;
+    margin-top: 10px;
+    padding: 2%;
+    
+  }
+  
+  .float1 i{
+    background-color:  rgb(185, 185, 45);
+    padding: 20px;
+    border-radius: 50px;
+    
+  } 
+
+  .float1 h1{
+    font-size: 30px;
+    margin-top: 20px;
+  }
+
+  .float1 p{
+    margin-top: 10px;
+    font-size: medium;
+  }
+
+  .content-2{
+    width: 100%;
+    padding: 2%;
+    float: left ;
+    margin-top: 50px;
+    background-color: rgb(17, 13, 13); 
+  }
+
+  .img-2{
+    float: left;
+    width: 50%;
+  }
+
+  .img-2 img{
+    width: 100%;
+  }
+
+  .text-2{
+    float: right;
+    width: 50%;
+    padding-left: 70px;
+    margin-top: 70px;
+  }
+
+  .text-2 h3{
+    font-size: 15px;
+     color: rgb(185, 185, 45)
+  
+  }
+
+  .text-2 h1{
+    font-weight: 700;
+    font-size: 56px;
+    color: #FFFFFF;
+  
+  }
+
+  .content-3{
+    width: 100%;
+    padding: 2%;
+    float: left;
+    margin-top: 50px;
+    
+  }
+
+.text-3{
+    float: left;
+    width: 50%;
+  
+  }
+
+.text-3 h3{
+  font-size: 15px;
+  color: rgb(185, 185, 45)
+}
+
+.text-3 h1{
+    font-weight: 700;
+    font-size: 65px;
+
+}
+
+.text p{
+font-size: 28px;
+color: #FFFFFF;
+}
+
+.icons i{
+  border: 2px solid rgb(17, 13, 13);
+  border-radius: 50px;
+  padding: 30px;
+  margin-left: 10px;
+}
+
+.content-4{
+  background-color: rgb(17, 13, 13);
+}
+
+.float2{
+  float: left;
+  width: 50%;
+ padding: 30px;
+ background-color: rgb(17, 13, 13);
+  
+}
+
+.float2 img{
+  width: 100%;
+  height: 492px;
+}
+
+.content-4 h1{
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  
+}
+
+.float2  p{
+  color: white;
+}
+
+.float2 h2{
+  color: white;
+}
+
+.float2 i{
+  padding-left: 300px;
+}
+
+
+
+.btn-2 a{
+      padding-left: 50px;
+}
+
+.content-5{
+  width: 100%;
+  padding: 2%;
+  float: left;
+  background-color: rgb(17, 13, 13);
+
+}
+
+.footer-image{
+  border: 2px solid rgb(54, 51, 51);
+  width: 80%;
+  margin-left: 100px;
+  overflow: hidden;
+  padding: 5%;
+  background-color:rgb(54, 51, 51)
+}
+
+.text-5{
+  float: left;
+  width: 50%;
+  margin-top: 50px;
+
+}
+
+
+.text-5 h3{
+  font-size: 15px;
+  color: rgb(185, 185, 45);
+  
+  }
+    .text-5 h1{
+      font-weight: 700;
+  font-size: 35px;
+  width: 588px;
+  color: #FFFFFF;
+  }
+
+ .search{
+  width: 80%;
+  margin: auto;
+  margin-right: 150px;
+ } 
+
+
+ .search button{
+  background-color: rgb(185, 185, 45);
+  border-color: gold;
+  padding: 5px;
+  color: white;
+ }
+
+ .search input{
+  padding-right: 20%;
+  border: none;
+ }
+
+ .search{
+  border: 1px solid white;
+  width: 80%;
+  padding: 5px;
+  background-color: white;
+ }
+
+ @media screen and (max-width:1000px) {
+  #nav-links li{
+    list-style-type: none;
+    float: left;
+    margin-left: 10px;
+  }
+  .img{
+    width: 100%;
+    margin-top: 20px;
+   }
+   .text{
+    width: auto;
+    float: left;
+   }
+   
+   .content-3{
+    width: 100%;
+   }
+   .text-3{
+    width: auto;
+   }
+   .search{
+    width: 200%;
+    margin: auto;
+    margin-right: 150px;
+   } 
+}
+
+
+ @media screen and (max-width:768px) {
+  #navbar{
+    width: 100%;
+    padding-left: 1%;
+  
+  }
+
+  #nav-links li{
+    list-style-type: none;
+    float: left;
+    margin-left: 10px;
+  }
+  
+  #nav-links a {
+    text-decoration: none;
+    color: white;
+  }  
+  
+  #logo {
+    float: left;
+    color: white;
+    
+  }
+  .nav-icons{
+    color: white;
+    float: right;
+    width: 15%;
+    margin-right: 2px;
+  }
+
+  .content{
+   width: 100%;
+  }
+ 
+  .text{
+   width: 100%;
+   float: left;
+  }
+
+  .text p{
+    width: 100%;
+   }
+
+   .content img{
+    margin-top: 30px;
+   }
+
+   .float1{
+    width: 50%;
+   }
+
+   .content-2{
+    width: 100%;
+   }
+
+  .img-2{
+    width: 100%;
+  }
+  
+  .text-2{
+    width: 100%;
+   }
+
+
+   .img{
+    width: 100%;
+    margin-top: 20px;
+   }
+
+   .float2{
+    width: 100%;
+   }
+
+   .footer-image{
+    border: 2px solid rgb(54, 51, 51);
+    width: 80%;
+    margin-left: 50px;
+    overflow: hidden;
+    padding: 5%;
+    background-color:rgb(54, 51, 51)
+  }
+   
+  .search{
+    width: 200%;
+    margin: auto;
+    margin-right: 150px;
+   } 
+  }
+
+  @media screen and (max-width:620px) {
+    #navbar{
+      width: 100%;
+      padding-left: 1%;
+    
+    }
+  
+    #nav-links li{
+      list-style-type: none;
+      float: left;
+      margin-left: 8px;
+    }
+    
+    #nav-links a {
+      text-decoration: none;
+      color: white;
+    }  
+    
+    #logo {
+      float: left;
+      color: white;
+      
+    }
+    .nav-icons{
+      color: white;
+      float: right;
+      width: 10%;
+      margin-right: 2px;
+    }
+  
+    .content{
+     width: 100%;
+    }
+   
+    .text{
+     width: 100%;
+     float: left;
+    }
+  
+    .text p{
+      width: 100%;
+     }
+  
+     .content img{
+      margin-top: 30px;
+     }
+  
+     .float1{
+      width: 50%;
+     }
+  
+     .content-2{
+      width: 100%;
+     }
+  
+    .img-2{
+      width: 100%;
+    }
+    
+    .text-2{
+      width: 100%;
+     }
+  
+  
+     .img{
+      width: 100%;
+      margin-top: 20px;
+     }
+  
+     .float2{
+      width: 100%;
+     }
+  
+     .footer-image{
+      border: 2px solid rgb(54, 51, 51);
+      width: 80%;
+      margin-left: 50px;
+      overflow: hidden;
+      padding: 5%;
+      background-color:rgb(54, 51, 51)
+    }
+     
+    .search{
+      width: 200%;
+      margin: auto;
+      margin-right: 150px;
+     } 
+    }
+
+    @media screen and (max-width: 400px) {
+      #navbar{
+        width: 100%;
+        padding-left: 1%;
+      
+      }
+    
+      #nav-links li{
+        list-style-type: none;
+        float: left;
+        margin-left: 8px;
+      }
+      
+      #nav-links a {
+        text-decoration: none;
+        color: white;
+      }  
+      
+      #logo {
+        float: left;
+        color: white;
+        
+      }
+      .nav-icons{
+        color: white;
+        float: right;
+        width: 10%;
+        margin-right: 2px;
+      }
+    
+      .content{
+       width: 100%;
+      }
+
+      .btn{
+        width: 100%;
+    }
+      .btn i{
+        margin-left: 20px;
+      }
+      
+      .footer-image{
+        width: 80%;
+      }
+      .text-5 { 
+        width: 100%;
+      }
+
+      .text-5 h3{
+        font-size: 15px;
+      }
+
+      .text-5 h1{
+        font-size: 30px;
+      }
+      .search{
+        width: 100%;
+        margin-right: 2px;
+       } 
+       .search input, button {
+        width: 75%;
+        border: 2px solid white;
+        border-right: 0px;
+        font-size: 8px;
+        padding: 8px;
+    }
+
+    .float1{
+      width: 100%;
+      padding-left: 20%;
+    }
+    }
+
+  
